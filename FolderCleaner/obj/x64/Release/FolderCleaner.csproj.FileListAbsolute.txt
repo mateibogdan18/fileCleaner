@@ -1,0 +1,7 @@
+C:\Users\Bogdan\source\repos\FolderCleaner\FolderCleaner\bin\x64\Release\FolderCleaner.exe.config
+C:\Users\Bogdan\source\repos\FolderCleaner\FolderCleaner\bin\x64\Release\FolderCleaner.exe
+C:\Users\Bogdan\source\repos\FolderCleaner\FolderCleaner\bin\x64\Release\INIFileParser.dll
+C:\Users\Bogdan\source\repos\FolderCleaner\FolderCleaner\bin\x64\Release\INIFileParser.xml
+C:\Users\Bogdan\source\repos\FolderCleaner\FolderCleaner\obj\x64\Release\FolderCleaner.csproj.CopyComplete
+C:\Users\Bogdan\source\repos\FolderCleaner\FolderCleaner\obj\x64\Release\FolderCleaner.exe
+C:\Users\Bogdan\source\repos\FolderCleaner\FolderCleaner\obj\x64\Release\FolderCleaner.csprojAssemblyReference.cache
